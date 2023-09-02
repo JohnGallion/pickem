@@ -1,0 +1,8 @@
+#ticker {
+    background-color: #333;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+}
